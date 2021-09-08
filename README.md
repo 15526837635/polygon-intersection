@@ -1,3 +1,5 @@
+计算多边形的面积
+
 # convex polygon-intersection
 Simple algo to find convex polygon intersection and compute area of polygone with using OpenCV 
 
@@ -18,6 +20,7 @@ Simple algo to find convex polygon intersection and compute area of polygone wit
 Edit CMakeLists.txt and modify the path to your opencv path line 5 for to find OpenCVConfig.cmake file.
 
 ####2. Prepare the CMake build environment####
+
 
 	$ sudo apt-get install cmake
 
